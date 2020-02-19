@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/praveen.paul/StudioProjects/Build.prop-Editor1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/praveen.paul/StudioProjects/Build.prop-Editor1/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,139,97",
+                        "endColumns": "41,40,41",
+                        "endOffsets": "92,175,134"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,97,138",
+                        "endColumns": "41,40,41",
+                        "endOffsets": "92,133,175"
+                    }
+                },
+                {
+                    "source": "/Users/praveen.paul/StudioProjects/Build.prop-Editor1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "13,12,3,2,14,6,5,7,8,9,15,4,11,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "639,603,110,55,679,242,198,284,334,386,721,160,514,448",
+                        "endColumns": "39,35,49,54,41,41,43,49,51,61,43,37,88,65",
+                        "endOffsets": "674,634,155,105,716,279,237,329,381,443,760,193,598,509"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "180,220,256,306,361,403,445,489,539,591,653,697,735,824",
+                        "endColumns": "39,35,49,54,41,41,43,49,51,61,43,37,88,65",
+                        "endOffsets": "215,251,301,356,398,440,484,534,586,648,692,730,819,885"
+                    }
+                }
+            ]
+        }
+    ]
+}
